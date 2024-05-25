@@ -1,0 +1,128 @@
+2023-09-27 14:39:04	name=class.vec_map description=system person typename=St3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorI6PersonSaIS7_EESt4lessIS5_ESaISt4pairIKS5_S9_EEE value=
+2023-09-27 14:39:04	name=system.value description=system value typename=f value=10.1999998
+2023-09-27 14:39:04	name=system.str_int_map description=system str int map typename=St3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEiSt4lessIS5_ESaISt4pairIKS5_iEEE value=k: 2
+2023-09-27 14:39:04	name=system.int_list description=system int list typename=NSt7__cxx114listIiSaIiEEE value=- 1
+- 2
+2023-09-27 14:39:04	name=logs description=logs config typename=St3setIN5sylar9LogDefineESt4lessIS1_ESaIS1_EE value=- name: root
+  level: INFO
+  formatter: "%d%T%m%n"
+  appenders:
+    - type: FileLogAppender
+      file: root.txt
+    - type: StdoutLogAppender
+- name: system
+  level: DEBUG
+  formatter: "%d%T%m%n"
+  appenders:
+    - type: FileLogAppender
+      file: system.txt
+      formatter: "%d%T[%p]%T%m%n"
+    - type: StdoutLogAppender
+2023-09-27 14:39:04	name=class.person description=system person typename=6Person value=name: ""
+age: 0
+sex: false
+2023-09-27 14:39:04	name=system.int_vec description=system int vec typename=St6vectorIiSaIiEE value=- 1
+- 2
+2023-09-27 14:39:04	name=class.map description=system person typename=St3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE6PersonSt4lessIS5_ESaISt4pairIKS5_S6_EEE value=
+2023-09-27 14:39:04	name=system.port description=system port typename=i value=8080
+2023-09-27 14:39:04	name=system.int_set description=system int set typename=St3setIiSt4lessIiESaIiEE value=- 1
+- 2
+2023-09-27 14:39:04	name=system.int_uset description=system int uset typename=St13unordered_setIiSt4hashIiESt8equal_toIiESaIiEE value=- 2
+- 1
+2023-09-27 14:39:04	name=system.str_int_umap description=system str int umap typename=St13unordered_mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEiSt4hashIS5_ESt8equal_toIS5_ESaISt4pairIKS5_iEEE value=k: 2
+2023-09-28 22:00:58	name=class.vec_map description=system person typename=St3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorI6PersonSaIS7_EESt4lessIS5_ESaISt4pairIKS5_S9_EEE value=
+2023-09-28 22:00:58	name=system.value description=system value typename=f value=10.1999998
+2023-09-28 22:00:58	name=system.str_int_map description=system str int map typename=St3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEiSt4lessIS5_ESaISt4pairIKS5_iEEE value=k: 2
+2023-09-28 22:00:58	name=system.int_list description=system int list typename=NSt7__cxx114listIiSaIiEEE value=- 1
+- 2
+2023-09-28 22:00:58	name=logs description=logs config typename=St3setIN5sylar9LogDefineESt4lessIS1_ESaIS1_EE value=- name: root
+  level: INFO
+  formatter: "%d%T%m%n"
+  appenders:
+    - type: FileLogAppender
+      file: root.txt
+    - type: StdoutLogAppender
+- name: system
+  level: DEBUG
+  formatter: "%d%T%m%n"
+  appenders:
+    - type: FileLogAppender
+      file: system.txt
+      formatter: "%d%T[%p]%T%m%n"
+    - type: StdoutLogAppender
+2023-09-28 22:00:58	name=class.person description=system person typename=6Person value=name: ""
+age: 0
+sex: false
+2023-09-28 22:00:58	name=system.int_vec description=system int vec typename=St6vectorIiSaIiEE value=- 1
+- 2
+2023-09-28 22:00:58	name=class.map description=system person typename=St3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE6PersonSt4lessIS5_ESaISt4pairIKS5_S6_EEE value=
+2023-09-28 22:00:58	name=system.port description=system port typename=i value=8080
+2023-09-28 22:00:58	name=system.int_set description=system int set typename=St3setIiSt4lessIiESaIiEE value=- 1
+- 2
+2023-09-28 22:00:58	name=system.int_uset description=system int uset typename=St13unordered_setIiSt4hashIiESt8equal_toIiESaIiEE value=- 2
+- 1
+2023-09-28 22:00:58	name=system.str_int_umap description=system str int umap typename=St13unordered_mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEiSt4hashIS5_ESt8equal_toIS5_ESaISt4pairIKS5_iEEE value=k: 2
+2023-11-13 16:19:33	on_logger_conf_changed
+2023-11-13 16:21:42	on_logger_conf_changed
+2023-11-13 16:41:58	on_logger_conf_changed
+2023-11-13 16:45:23	on_logger_conf_changed
+2023-11-13 16:46:38	name=class.vec_map description=system person typename=St3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorI6PersonSaIS7_EESt4lessIS5_ESaISt4pairIKS5_S9_EEE value=k1:
+  - name: m1
+    age: 33
+    sex: true
+  - name: m2
+    age: 44
+    sex: false
+2023-11-13 16:46:38	name=class.person description=system person typename=6Person value=name: sylar
+age: 31
+sex: true
+2023-11-13 16:46:38	name=system.str_int_umap description=system str int umap typename=St13unordered_mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEiSt4hashIS5_ESt8equal_toIS5_ESaISt4pairIKS5_iEEE value=k3: 110
+k: 130
+k2: 120
+2023-11-13 16:46:38	name=system.int_uset description=system int uset typename=St13unordered_setIiSt4hashIiESt8equal_toIiESaIiEE value=- 60
+- 30
+- 20
+2023-11-13 16:46:38	name=system.str_int_map description=system str int map typename=St3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEiSt4lessIS5_ESaISt4pairIKS5_iEEE value=k: 30
+k2: 20
+k3: 10
+2023-11-13 16:46:38	name=system.int_list description=system int list typename=NSt7__cxx114listIiSaIiEEE value=- 20
+- 40
+- 50
+2023-11-13 16:46:38	name=http.request.buffer_size description=http request buffer size typename=m value=4096
+2023-11-13 16:46:38	name=fiber.stack_size description=fiber stack size typename=j value=131072
+2023-11-13 16:46:38	name=logs description=logs config typename=St3setIN5sylar9LogDefineESt4lessIS1_ESaIS1_EE value=- name: root
+  level: INFO
+  formatter: "%d%T%m%n"
+  appenders:
+    - type: FileLogAppender
+      file: root.txt
+    - type: StdoutLogAppender
+- name: system
+  level: DEBUG
+  formatter: "%d%T%m%n"
+  appenders:
+    - type: FileLogAppender
+      file: system.txt
+      formatter: "%d%T[%p]%T%m%n"
+    - type: StdoutLogAppender
+2023-11-13 16:46:38	name=class.map description=system person typename=St3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE6PersonSt4lessIS5_ESaISt4pairIKS5_S6_EEE value=sylar1:
+  name: sylar01
+  age: 18
+  sex: false
+sylar2:
+  name: sylar02
+  age: 40
+  sex: true
+2023-11-13 16:46:38	name=system.int_set description=system int set typename=St3setIiSt4lessIiESaIiEE value=- 20
+- 30
+- 60
+2023-11-13 16:46:38	name=system.port description=system port typename=i value=9900
+2023-11-13 16:46:38	name=tcp.connect.timeout description=tcp connect timeout typename=i value=5000
+2023-11-13 16:46:38	name=http.response.buffer_size description=http response buffer size typename=m value=4096
+2023-11-13 16:46:38	name=tcp_server.read_timeout description=tcp server read timeout typename=m value=120000
+2023-11-13 16:46:38	name=system.int_vec description=system int vec typename=St6vectorIiSaIiEE value=- 10
+- 30
+2023-11-13 16:46:38	name=http.request.max_body_size description=http request max body size typename=m value=67108864
+2023-11-13 16:46:38	name=http.response.max_body_size description=http response max body size typename=m value=67108864
+2023-11-13 16:46:38	name=daemon.restart_interval description=daemon restart interval typename=j value=5
+2023-11-13 16:46:38	name=system.value description=system value typename=f value=15

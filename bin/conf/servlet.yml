@@ -1,0 +1,3 @@
+servlets: #/home/yangxin/sylar-master
+    - uri: /sylar_server/http/html/baidu
+      type: html  #类型

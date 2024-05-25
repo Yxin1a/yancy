@@ -1,0 +1,18 @@
+servers:
+    - address: ["0.0.0.0:8090", "127.0.0.1:8091"] #服务器绑定地址   网卡： "/tmp/test.sock="————不存在
+      keepalive: 1  #长连接
+      timeout: 1000 #连接超时时间
+      name: sylar/1.1 #服务器名称、版本
+      accept_worker: accept #服务器使用的IO协程调度器
+      io_worker: http_io  #
+      process_worker:  http_io  #工作过程中需要新的IO协程调度器
+      type: http  #服务器类型
+
+      #rock服务器还没写
+    # - address: ["0.0.0.0:8062", "0.0.0.0:8061"] #服务器绑定地址
+    #   timeout: 1000 #连接超时时间
+    #   name: sylar-rock/1.0  #服务器名称、版本
+    #   accept_worker: accept #服务器使用的IO协程调度器
+    #   io_worker: io
+    #   process_worker:  io
+    #   type: rock  

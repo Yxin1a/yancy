@@ -1,0 +1,31 @@
+# #日志系统
+# logs:
+#   - name: root
+#     level: info
+#     formatter: '%d%T%m%n'
+#     appenders:
+#       - type: FileLogAppender
+#         file: root.txt
+#       - type: StdoutLogAppender
+#   - name: system
+#     level: debug
+#     formatter: '%d%T%m%n'
+#     appenders:
+#       - type: FileLogAppender
+#         file: system.txt
+#         formatter: '%d%T[%p]%T%m%n'
+#       - type: StdoutLogAppender
+
+logs:
+    - name: root
+      level: debug  #最小日志打印等级
+      appenders:
+          - type: FileLogAppender
+            file: /home/yangxin/sylar-master/apps/logs/root.log #不存在就会报错（现在不存在）
+          - type: StdoutLogAppender
+    - name: system
+      level: debug  #最小日志打印等级
+      appenders:
+          - type: FileLogAppender
+            file: /home/yangxin/sylar-master/apps/logs/system.log #不存在就会报错（现在不存在）
+          - type: StdoutLogAppender

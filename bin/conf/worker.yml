@@ -1,0 +1,14 @@
+#正在工作的各个协程调度器的线程名称，线程的数量
+workers:
+    io:
+        thread_num: 8
+    http_io:
+        thread_num: 1
+    accept:
+        thread_num: 2
+    worker:
+        thread_num: 8
+    notify:
+        thread_num: 8
+    service_io:
+        thread_num: 4

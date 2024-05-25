@@ -1,0 +1,711 @@
+2024-04-20 16:59:41	29766	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 16:59:41	29766	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 16:59:41	29766	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 16:59:41	29766	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 16:59:41	29766	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 16:59:41	29766	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 16:59:41	29766	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 16:59:41	29766	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 17:00:30	30115	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 17:00:30	30115	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-20 17:00:30	30116	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 17:00:30	30115	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 17:00:30	30115	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-20 17:00:30	30115	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-20 17:00:30	30116	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 17:00:30	30116	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-20 17:00:30	30115	main	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-20 17:00:30	30115	main	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-20 17:00:30	30115	main	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-20 17:00:30	30116	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-20 17:00:32	30115	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-20 17:00:36	30116	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-20 17:31:56	30647	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 17:31:56	30647	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 17:31:56	30647	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 17:31:56	30647	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 17:31:56	30647	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 17:31:56	30647	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 17:31:56	30647	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 17:31:56	30647	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 17:31:56	30647	UNKNOW	0	[ERROR]	[system]	sylar_server/application.cpp:117	server is running:/apps/work/sylar/sylar.pid
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 17:33:49	30754	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 17:33:49	30754	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-20 17:33:49	30755	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 17:33:49	30755	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 17:33:49	30755	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-20 17:33:49	30755	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-20 17:33:49	30754	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 17:33:49	30754	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-20 17:33:49	30755	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-20 17:33:49	30755	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-20 17:33:49	30755	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-20 17:33:49	30755	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-20 17:33:51	30755	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-20 17:33:55	30754	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-20 17:34:59	30754	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:35	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58213]
+2024-04-20 17:34:59	30754	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:35	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58214]
+2024-04-20 17:35:21	30754	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=8
+2024-04-20 17:36:59	30755	main_0	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:41	recv http request fail, errno=110 errstr=Connection timed out cliet:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58214] keep_alive=1
+2024-04-20 17:36:59	30755	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=7
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 17:41:15	31439	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 17:41:15	31439	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-20 17:41:15	31440	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 17:41:15	31440	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 17:41:15	31440	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-20 17:41:15	31440	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-20 17:41:15	31439	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 17:41:15	31439	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-20 17:41:15	31440	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-20 17:41:15	31440	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-20 17:41:15	31440	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-20 17:41:15	31439	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-20 17:41:17	31439	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-20 17:41:19	31440	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-20 17:41:22	31439	main	6	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58232]
+2024-04-20 17:41:22	31439	main	6	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58233]
+2024-04-20 17:41:23	31439	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=8
+2024-04-20 17:42:33	31439	main	6	[DEBUG]	[system]	sylar_server/http/http_server.cpp:49	recv http request fail, errno=11 errstr=Resource temporarily unavailable cliet:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58233] keep_alive=1
+2024-04-20 17:42:33	31439	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=6
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 19:45:22	32957	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 19:45:22	32957	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-20 19:45:22	32958	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 19:45:22	32958	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 19:45:22	32958	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-20 19:45:22	32958	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-20 19:45:22	32957	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 19:45:22	32957	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-20 19:45:22	32958	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-20 19:45:22	32958	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-20 19:45:22	32958	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-20 19:45:22	32957	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-20 19:45:24	32958	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-20 19:45:26	32957	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-20 19:45:30	32957	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58857]
+2024-04-20 19:45:30	32957	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58858]
+2024-04-20 19:45:48	32957	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=8
+2024-04-20 19:45:54	32957	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:49	recv http request fail, errno=11 errstr=Resource temporarily unavailable cliet:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58858] keep_alive=1
+2024-04-20 19:45:54	32957	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=7
+2024-04-20 19:45:59	32957	main	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=12 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58873]
+2024-04-20 19:45:59	32957	main	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=13 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58874]
+2024-04-20 19:46:11	32958	main_0	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:49	recv http request fail, errno=11 errstr=Resource temporarily unavailable cliet:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58874] keep_alive=1
+2024-04-20 19:46:11	32958	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=8
+2024-04-20 19:46:12	32957	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=9
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 19:50:52	33685	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 19:50:52	33685	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-20 19:50:52	33686	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 19:50:52	33685	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 19:50:52	33685	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-20 19:50:52	33685	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-20 19:50:52	33686	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 19:50:52	33686	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-20 19:50:52	33685	main	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-20 19:50:52	33685	main	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-20 19:50:52	33685	main	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-20 19:50:52	33686	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-20 19:50:54	33685	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-20 19:50:56	33686	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-20 19:51:23	33686	main_0	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58956]
+2024-04-20 19:51:23	33686	main_0	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:58957]
+2024-04-20 19:51:23	33686	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=7
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-20 19:51:39	33804	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 19:51:39	33804	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-20 19:51:39	33805	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 19:51:39	33805	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-20 19:51:39	33805	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-20 19:51:39	33805	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-20 19:51:39	33804	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-20 19:51:39	33804	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-20 19:51:39	33805	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-20 19:51:39	33805	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-20 19:51:39	33805	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-20 19:51:39	33804	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-20 19:51:41	33805	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-20 19:51:43	33804	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-20 19:52:11	33804	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:59022]
+2024-04-20 19:52:11	33804	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=7
+2024-04-20 19:52:11	33804	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=8
+2024-04-20 19:52:11	33804	main	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:59023]
+2024-04-20 19:52:11	33805	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=8
+2024-04-20 19:52:36	33804	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=9
+2024-04-20 19:52:36	33804	main	9	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=12 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:59076]
+2024-04-20 19:52:36	33804	main	9	[DEBUG]	[system]	sylar_server/http/http_server.cpp:43	handleClient [Socket sock=13 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:59077]
+2024-04-20 19:52:36	33804	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=9
+2024-04-20 19:53:05	33804	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=10
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-21 11:20:31	39961	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-21 11:20:31	39961	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-21 11:20:31	39962	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-21 11:20:31	39962	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-21 11:20:31	39962	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-21 11:20:31	39961	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-21 11:20:31	39962	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-21 11:20:31	39961	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-21 11:20:31	39962	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-21 11:20:31	39962	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-21 11:20:31	39962	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-21 11:20:31	39962	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-21 11:20:33	39961	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-21 11:20:35	39962	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-21 11:20:55	39961	main	6	[DEBUG]	[system]	sylar_server/http/http_server.cpp:67	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:62539]
+2024-04-21 11:20:55	39961	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=8
+2024-04-21 11:20:55	39961	main	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:67	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:62540]
+2024-04-21 11:20:55	39961	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=6
+2024-04-21 11:20:59	39961	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=9
+2024-04-21 11:20:59	39961	main	9	[DEBUG]	[system]	sylar_server/http/http_server.cpp:67	handleClient [Socket sock=13 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:62543]
+2024-04-21 11:20:59	39962	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=8
+2024-04-21 11:20:59	39961	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=10
+2024-04-21 11:21:00	39961	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=9
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-21 11:22:02	40332	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-21 11:22:02	40332	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-21 11:22:02	40333	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-21 11:22:02	40333	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-21 11:22:02	40333	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-21 11:22:02	40332	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-21 11:22:02	40333	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-21 11:22:02	40332	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-21 11:22:02	40333	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-21 11:22:02	40333	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-21 11:22:02	40333	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-21 11:22:02	40332	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-21 11:22:04	40332	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-21 11:22:07	40333	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-21 11:22:07	40333	main_0	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:67	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:62552]
+2024-04-21 11:22:07	40333	main_0	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:67	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:62553]
+2024-04-21 11:22:09	40332	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:73	recv http request fail, errno=11 errstr=Resource temporarily unavailable cliet:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:62553] keep_alive=1
+2024-04-21 11:22:09	40332	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=7
+2024-04-21 11:22:12	40333	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=8
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-24 22:39:19	20285	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-24 22:39:19	20285	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-24 22:39:19	20286	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-24 22:39:19	20286	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-24 22:39:19	20286	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-24 22:39:19	20285	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-24 22:39:19	20286	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-24 22:39:19	20285	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-24 22:39:19	20286	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-24 22:39:19	20286	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-24 22:39:19	20286	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-24 22:39:19	20286	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-24 22:39:21	20286	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-24 22:39:23	20285	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-24 22:43:15	21724	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-24 22:43:15	21724	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-24 22:43:15	21725	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-24 22:43:15	21725	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-24 22:43:15	21725	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-24 22:43:15	21725	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-24 22:43:15	21724	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-24 22:43:15	21724	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-24 22:43:15	21725	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-24 22:43:15	21725	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-24 22:43:15	21725	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-24 22:43:15	21724	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-24 22:43:17	21725	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-24 22:43:21	21724	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-24 22:43:30	21724	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61203]
+2024-04-24 22:43:30	21725	main_0	6	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61204]
+2024-04-24 22:43:30	21725	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=8
+2024-04-24 22:43:30	21725	main_0	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=12 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61205]
+2024-04-24 22:43:33	21725	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=6
+2024-04-24 22:43:47	21725	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=9
+2024-04-24 22:44:10	21724	main	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:66	recv http request fail, errno=11 errstr=Resource temporarily unavailable cliet:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61205] keep_alive=1
+2024-04-24 22:44:10	21724	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=8
+2024-04-24 22:44:16	21724	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=13 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61233]
+2024-04-24 22:44:16	21724	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=10
+2024-04-24 22:44:16	21724	main	10	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=14 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61234]
+2024-04-24 22:44:19	21724	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=7
+2024-04-24 22:44:19	21724	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=11
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-24 22:46:41	23385	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-24 22:46:41	23385	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-24 22:46:41	23386	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-24 22:46:41	23386	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-24 22:46:41	23386	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-24 22:46:41	23386	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-24 22:46:41	23385	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-24 22:46:41	23385	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-24 22:46:41	23386	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-24 22:46:41	23386	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-24 22:46:41	23386	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-24 22:46:41	23385	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-24 22:46:43	23385	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-24 22:46:46	23386	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-24 22:46:46	23386	main_0	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61305]
+2024-04-24 22:46:46	23386	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=8
+2024-04-24 22:46:46	23386	main_0	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61306]
+2024-04-24 22:46:53	23386	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=9
+2024-04-24 22:47:07	23386	main_0	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:66	recv http request fail, errno=11 errstr=Resource temporarily unavailable cliet:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61305] keep_alive=1
+2024-04-24 22:47:07	23386	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=7
+2024-04-24 22:47:07	23386	main_0	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:66	recv http request fail, errno=11 errstr=Resource temporarily unavailable cliet:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61306] keep_alive=1
+2024-04-24 22:47:07	23386	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=8
+2024-04-24 22:47:08	23385	main	6	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=12 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61315]
+2024-04-24 22:47:08	23386	main_0	9	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=13 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61316]
+2024-04-24 22:47:09	23386	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=10
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-24 22:49:28	24848	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-24 22:49:28	24848	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-24 22:49:28	24849	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-24 22:49:28	24849	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-24 22:49:28	24849	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-24 22:49:28	24848	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-24 22:49:28	24849	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-24 22:49:28	24848	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-24 22:49:28	24849	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-24 22:49:28	24849	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-24 22:49:28	24849	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-24 22:49:28	24848	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-24 22:49:30	24849	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-24 22:49:36	24848	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7
+2024-04-24 22:49:41	24849	main_0	6	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=10 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61388]
+2024-04-24 22:49:41	24849	main_0	6	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=11 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61389]
+2024-04-24 22:49:49	24848	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=6
+2024-04-24 22:49:49	24848	main	7	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=12 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61393]
+2024-04-24 22:49:49	24848	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=7
+2024-04-24 22:49:49	24848	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=8
+2024-04-24 22:49:49	24848	main	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:60	handleClient [Socket sock=13 is_connected=1 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61394]
+2024-04-24 22:49:50	24849	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=9
+2024-04-24 22:50:00	24848	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=10
+2024-04-24 22:51:49	24848	main	8	[DEBUG]	[system]	sylar_server/http/http_server.cpp:66	recv http request fail, errno=110 errstr=Connection timed out cliet:[Socket sock=-1 is_connected=0 family=2 type=1 protocol=0 local_address=192.168.158.128:8090 remote_address=192.168.158.1:61394] keep_alive=1
+2024-04-24 22:51:49	24848	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:110	Fiber::~Fiber id=8
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/application.cpp:142	main
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/log.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/fox_thread.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/redis.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/worker.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/server.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/servlet.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/system.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/service.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[INFO]	[system]	sylar_server/config.cpp:111	LoadConfFile file=/home/yangxin/sylar-master/bin/conf/test.yml ok
+2024-04-25 16:23:42	30588	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-25 16:23:42	30588	UNKNOW	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=1
+2024-04-25 16:23:42	30589	main_0	0	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-25 16:23:42	30589	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:56	Fiber::Fiber
+2024-04-25 16:23:42	30589	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=2
+2024-04-25 16:23:42	30589	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=3
+2024-04-25 16:23:42	30588	main	1	[DEBUG]	[system]	sylar_server/scheduler.cpp:168	main run
+2024-04-25 16:23:42	30588	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=4
+2024-04-25 16:23:42	30589	main_0	3	[DEBUG]	[system]	sylar_server/application.cpp:195	
+id: ""
+type: http
+name: sylar/1.1
+keepalive: 1
+timeout: 1000
+ssl: 0
+cert_file: ""
+key_file: ""
+accept_worker: accept
+io_worker: http_io
+process_worker: http_io
+args: ~
+address:
+  - 0.0.0.0:8090
+  - 127.0.0.1:8091
+2024-04-25 16:23:42	30589	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=8 is_connected=0 family=2 type=1 protocol=0 local_address=0.0.0.0:8090]
+2024-04-25 16:23:42	30589	main_0	3	[INFO]	[system]	sylar_server/tcp_server.cpp:76	type=tcp name=sylar/1.1 ssl=0 server bind success: [Socket sock=9 is_connected=0 family=2 type=1 protocol=0 local_address=127.0.0.1:8091]
+2024-04-25 16:23:42	30588	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=5
+2024-04-25 16:23:44	30589	main_0	0	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=6
+2024-04-25 16:23:46	30588	main	1	[DEBUG]	[system]	sylar_server/fiber.cpp:87	Fiber::Fiber id=7

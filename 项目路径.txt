@@ -1,0 +1,8 @@
+bin————二进制
+build————中间文件路径
+cmake————cmake函数文件夹
+CMakeList.txt————cmake的定义文件
+lib————库的输出路径
+Makefile
+sylar_server————源代码路径
+tests————测试文件路径
