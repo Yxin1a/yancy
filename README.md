@@ -46,5 +46,4 @@ ByteArray二进制序列化模块，提供对二进制数据的常用操作。�
  QQ：2033743028
  邮箱：2033743028@qq.com
  微信：yancy / 13428103320
-个人主页：www.sylar.top
 github:https://github.com/Yxin1a/yancy
